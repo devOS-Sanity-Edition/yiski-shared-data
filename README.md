@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("one.devos:yiski-shared-data")
+    implementation("one.devos:yiski-shared-data:0.1.0")
 }
 ```
 
